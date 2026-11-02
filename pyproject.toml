@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bhmarketer-crypto-press-release-faq"
+version = "1.0.0"
+description = "BHMarketer Crypto Press Release FAQ Generator: searchable 50-question FAQ about buying a crypto press release from BHMarketer.ai, with a page FAQ section and FAQPage JSON-LD."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "BHMarketer.ai" }]
+requires-python = ">=3.9"
+keywords = ["bhmarketer", "buy crypto press release", "crypto press release", "crypto pr", "blockchain press release", "web3", "faq", "faq generator", "faqpage", "json-ld"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Topic :: Internet :: WWW/HTTP :: Site Management",
+]
+
+[project.urls]
+Homepage = "https://bhmarketer.ai/crypto-press-release/"
+Repository = "https://github.com/bhmarketer-ai/BHMarketer-Crypto-Press-Release-FAQ-Generator"
+Documentation = "https://bhmarketer-crypto-press-release-faq-generator.readthedocs.io"
+
+[project.scripts]
+cpr-faq = "crypto_pr_faq.__main__:main"
+
+[tool.setuptools]
+packages = ["crypto_pr_faq"]
+
+[tool.setuptools.package-data]
+crypto_pr_faq = ["*.json"]

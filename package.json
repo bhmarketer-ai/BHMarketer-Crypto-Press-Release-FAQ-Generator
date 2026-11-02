@@ -1,0 +1,59 @@
+{
+  "name": "@bhmarketer-ai/crypto-press-release-faq-generator",
+  "version": "1.0.0",
+  "description": "BHMarketer Crypto Press Release FAQ Generator: searchable 50-question FAQ about buying a crypto press release from BHMarketer.ai, with a page FAQ section and FAQPage JSON-LD.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "cpr-faq": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "crypto_pr_faq/faq.json",
+    "crypto_pr_faq/config.json",
+    "README.md",
+    "LICENSE",
+    "LICENSE-CONTENT"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "npm run build && node dist/index.js ask how much does it cost && node dist/index.js top 5 && node dist/index.js html > /dev/null"
+  },
+  "keywords": [
+    "bhmarketer",
+    "bhmarketer-ai",
+    "buy-crypto-press-release",
+    "crypto-press-release",
+    "crypto-pr",
+    "blockchain-press-release",
+    "web3",
+    "press-release-distribution",
+    "faq",
+    "faq-generator",
+    "faq-schema",
+    "faqpage",
+    "json-ld",
+    "seo"
+  ],
+  "homepage": "https://bhmarketer.ai/crypto-press-release/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhmarketer-ai/BHMarketer-Crypto-Press-Release-FAQ-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhmarketer-ai/BHMarketer-Crypto-Press-Release-FAQ-Generator/issues"
+  },
+  "author": "BHMarketer.ai (https://bhmarketer.ai)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}

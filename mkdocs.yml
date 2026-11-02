@@ -1,0 +1,22 @@
+site_name: BHMarketer Crypto Press Release FAQ Generator
+site_url: https://bhmarketer-crypto-press-release-faq-generator.readthedocs.io/
+site_description: 50 questions about buying a crypto press release from BHMarketer.ai, with a page FAQ section and FAQPage JSON-LD.
+site_author: BHMarketer.ai
+repo_url: https://github.com/bhmarketer-ai/BHMarketer-Crypto-Press-Release-FAQ-Generator
+repo_name: bhmarketer-ai/BHMarketer-Crypto-Press-Release-FAQ-Generator
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: deep orange
+  features:
+    - navigation.sections
+    - toc.integrate
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - FAQ: faq.md

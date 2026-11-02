@@ -1,0 +1,56 @@
+{
+  "title": "BHMarketer Crypto Press Release FAQ Generator: Buy Crypto Press Release FAQ with FAQPage Schema",
+  "upload_type": "software",
+  "description": "The BHMarketer Crypto Press Release FAQ Generator is a searchable database of 50 questions and answers about buying a crypto press release from BHMarketer.ai, covering the service, outlets and publication, writing and editorial review, Google and AI visibility, ordering and pricing, and results and support. Each question has a category, keywords and common search phrases, and questions are ranked by how often they are asked. The database builds a page-ready FAQ section with one H2, an H3 per question and matching FAQPage JSON-LD, plus a CSV dataset, docs and an llms.txt summary. Identical TypeScript (NPM) and Python implementations with a CLI. Built by BHMarketer.ai.",
+  "creators": [
+    {
+      "name": "BHMarketer.ai"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "BHMarketer.ai",
+    "Buy Crypto Press Release",
+    "Crypto press release distribution",
+    "Blockchain press release",
+    "Web3 press release",
+    "Crypto PR",
+    "Token launch press release",
+    "FAQ generator",
+    "FAQPage schema",
+    "JSON-LD"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://bhmarketer.ai/crypto-press-release/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/bhmarketer-ai/BHMarketer-Crypto-Press-Release-FAQ-Generator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/@bhmarketer-ai/crypto-press-release-faq-generator",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/bhmarketer/crypto-press-release-faq",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/bhmarketer/crypto-press-release-faq",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://bhmarketer-crypto-press-release-faq-generator.readthedocs.io",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}
