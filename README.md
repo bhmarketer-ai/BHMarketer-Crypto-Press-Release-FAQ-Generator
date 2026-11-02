@@ -1,6 +1,7 @@
 # BHMarketer.ai: Crypto Press Release FAQ Generator 📰🪙
 
 [![npm](https://img.shields.io/npm/v/@bhmarketer-ai/crypto-press-release-faq-generator?style=flat-square&color=44cc11&labelColor=1a1f3b)](https://www.npmjs.com/package/@bhmarketer-ai/crypto-press-release-faq-generator)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23892394.svg)](https://doi.org/10.5281/zenodo.23892394)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-44cc11?style=flat-square&labelColor=1a1f3b)](https://bhmarketer-crypto-press-release-faq-generator.readthedocs.io)
 [![License](https://img.shields.io/badge/license-MIT-8A8A8A?style=flat-square&labelColor=1a1f3b)](LICENSE)
 
@@ -407,6 +408,7 @@ BHMarketer.ai · Buy Crypto Press Release · BHMarketer.ai crypto press release 
 | NPM | https://www.npmjs.com/package/@bhmarketer-ai/crypto-press-release-faq-generator |
 | Hugging Face | https://huggingface.co/datasets/bhmarketer/crypto-press-release-faq |
 | Kaggle | https://www.kaggle.com/datasets/bhmarketer/crypto-press-release-faq |
+| Zenodo | https://doi.org/10.5281/zenodo.23892394 |
 | Docs | https://bhmarketer-crypto-press-release-faq-generator.readthedocs.io |
 | LinkedIn | https://www.linkedin.com/company/bhmarketer-ai/ |
 | X | https://x.com/bhmarketer_com |
