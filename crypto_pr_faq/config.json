@@ -1,0 +1,33 @@
+{
+  "brand": "BHMarketer.ai",
+  "website": "https://bhmarketer.ai",
+  "service": "Crypto Press Release Distribution",
+  "service_page": "https://bhmarketer.ai/crypto-press-release/",
+  "seo": {
+    "title": "Buy Crypto Press Release | BHMarketer.ai",
+    "meta_description": "Buy crypto press release distribution from BHMarketer.ai. Choose crypto native and financial news outlets for token launches, listings, partnerships and Web3 announcements.",
+    "h1": "Buy Crypto Press Release",
+    "url_path": "/crypto-press-release/",
+    "primary_keyword": "Buy Crypto Press Release",
+    "keywords": [
+      "BHMarketer.ai crypto press release",
+      "Crypto press release distribution",
+      "Buy crypto press release online",
+      "Blockchain press release distribution",
+      "Web3 press release service",
+      "Crypto PR distribution",
+      "Token launch press release",
+      "Crypto press release AI visibility"
+    ]
+  },
+  "faq_heading": "Buy Crypto Press Release: Frequently Asked Questions About BHMarketer.ai",
+  "stopwords": [
+    "a", "an", "the", "is", "are", "was", "were", "be", "do", "does", "did", "can", "could",
+    "will", "would", "should", "i", "me", "my", "you", "your", "it", "its", "of", "to", "in",
+    "on", "for", "with", "and", "or", "at", "by", "from", "about", "what", "which", "who",
+    "how", "why", "where", "when", "this", "that", "there", "any", "please", "tell", "know",
+    "crypto", "cryptocurrency", "bhmarketer", "bhmarketer.ai", "press", "release", "releases",
+    "distribution", "distribute", "pr", "work", "works", "we", "our", "project", "projects", "company", "get"
+  ],
+  "repository": "https://github.com/bhmarketer-ai/BHMarketer-Crypto-Press-Release-FAQ-Generator"
+}
