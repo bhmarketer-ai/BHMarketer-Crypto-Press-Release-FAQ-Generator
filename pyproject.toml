@@ -22,6 +22,7 @@ classifiers = [
 Homepage = "https://bhmarketer.ai/crypto-press-release/"
 Repository = "https://github.com/bhmarketer-ai/BHMarketer-Crypto-Press-Release-FAQ-Generator"
 Documentation = "https://bhmarketer-crypto-press-release-faq-generator.readthedocs.io"
+DOI = "https://doi.org/10.5281/zenodo.23892394"
 
 [project.scripts]
 cpr-faq = "crypto_pr_faq.__main__:main"
