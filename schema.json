@@ -22,7 +22,8 @@
         "https://www.designrush.com/agency/profile/bhmarketer-ai",
         "https://clutch.co/profile/bhmarketer-ai-0",
         "https://www.glassdoor.co.in/Overview/Working-at-BHMarketer-EI_IE10955518.11,21.htm",
-        "https://www.provenexpert.com/en-us/bhmarketer-ai/"
+        "https://www.provenexpert.com/en-us/bhmarketer-ai/",
+        "https://doi.org/10.5281/zenodo.23892394"
       ]
     },
     {
@@ -50,7 +51,8 @@
       "author": {
         "@id": "https://bhmarketer.ai/#organization"
       },
-      "description": "Searchable 50-question FAQ about buying a crypto press release from BHMarketer.ai, with a page FAQ section and FAQPage JSON-LD."
+      "description": "Searchable 50-question FAQ about buying a crypto press release from BHMarketer.ai, with a page FAQ section and FAQPage JSON-LD.",
+      "identifier": "https://doi.org/10.5281/zenodo.23892394"
     },
     {
       "@type": "FAQPage",
